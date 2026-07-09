@@ -74,6 +74,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF" alt="GitHub Streak" width="48%" />
 </p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=masumb30)](https://github.com/stats-organization/github-stats-extended)
+
 ---
 
 ## 📫 Connect with Me
