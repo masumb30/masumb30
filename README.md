@@ -53,17 +53,19 @@ A feature-rich Property Rental & Booking platform bridging the gap between owner
 - **Key Feature:** Multi-role dashboards (Tenant, Owner, Admin), secure Stripe checkouts, dynamic Recharts financial analytics, and robust RBAC role toggles.
 - [🔗 Live Demo](https://rental-frontend-26fc.onrender.com) | [💻 Source Code](https://github.com/masumb30/rental-frontend)
 
-### 📦 E-Commerce Workspace
-*An optimized frontend storefront focusing on heavy state management and instantaneous dynamic filtering.*
-- **Tech Stack:** React.js, Express, Firebase, JWT
-- **Key Feature:** Persistent cart tracking across page reloads using authenticated session tokens.
-- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/ecommerce-app)
+### 💡 IdeaVault
+A dynamic crowdsourcing and validation platform for startup concepts and collaborative innovation.
 
-### 📈 Real-Time Communication Hub
-*A client-side chat environment powered by instant database updates and clean transitions.*
-- **Tech Stack:** Next.js, Tailwind CSS, Firebase Firestore
-- **Key Feature:** Asynchronous state streaming supporting dynamic message lists.
-- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/chat-hub)
+- **Tech Stack:** Next.js (App Router), Node.js, Express, MongoDB, Zustand, TanStack Query
+- **Key Feature:** Full CRUD idea lifecycle pipeline, real-time context-aware comments, server-side $regex search filtering, and robust JWT social/OAuth authentication.
+- [🔗 Live Demo](https://assign9frontend.onrender.com/) | [💻 Source Code](https://github.com/masumb30/assign9frontend)
+
+### 🛒 SunCart
+A high-performance e-commerce platform built with bleeding-edge web architecture and bulletproof route security.
+
+- **Tech Stack:** Next.js 16 (App Router), React 19, Tailwind CSS v4, DaisyUI v5, Better Auth, MongoDB
+- **Key Feature:** Edge Runtime middleware for zero-latency route protection, robust multi-provider OAuth integration, and a fluid glassmorphic user profile dashboard.
+- [🔗 Live Demo](https://suncart-delta-gules.vercel.app/) | [💻 Source Code](https://github.com/masumb30/assign8)
 
 ---
 
