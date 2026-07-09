@@ -1,61 +1,77 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Masum Billah
 
-### A passionate Full-Stack Web Developer from [Your Location]
+### Full-Stack Web Developer 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Current_Focus-Next.js%20%26%20TypeScript-blue?style=for-the-badge&logo=nextdotjs" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Current_Focus-Next.js_%26_TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Workflow-AI_Accelerated-000000?style=for-the-badge&logo=openai&logoColor=412991" alt="AI Accelerated" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-- 🚀 I’m currently working on building scalable web apps and exploring Micro-SaaS ideas.
-- 🌱 I’m deeply invested in **Next.js (App Router)**, **TypeScript**, and modern UI design.
-- 🎨 I love crafting fluid user experiences using **Tailwind CSS** and **Framer Motion**.
-- 💬 Ask me about React ecosystems, state management (Zustand/TanStack Query), or database optimization.
-- ⚡ Fun fact: I love automating workflows to save 5 minutes of manual work (even if it takes 2 hours to code).
+- 🚀 Currently architecting a full-stack project management application featuring integrated time tracking.
+- 🌱 Deeply focused on building scalable full-stack web applications using **Next.js (App Router)**, **React**, and **TypeScript**.
+- 🎨 Passionate about fluid, intuitive user interfaces built with **Tailwind CSS** and modern responsive layout principles.
+- ⚡ **Fun Fact:** I leverage advanced AI workflows to optimize my development speed, turning days of engineering into hours.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Frontend & Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-### Backend, Database & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Backend & Authentication
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=00F9B6" alt="JWT" />
+  <img src="https://img.shields.io/badge/Better_Auth-FFA500?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### 🔧 Tools & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-*Short, punchy 1-sentence description of the project.*
-- **Tech Stack:** Next.js, Prisma, Tailwind, Supabase
-- **Key Feature:** High-performance data visualization using Recharts.
-- [🔗 Live Demo](https://yourdemo.com) | [💻 Source Code](https://github.com/yourusername/project1)
+### 🌟 Project Management & Time Tracker
+*A robust web platform that combines visual task boards with native time analytics.*
+- **Tech Stack:** Next.js, TypeScript, Better Auth, Tailwind CSS
+- **Key Feature:** Granular user access controls with microsecond-accurate task time session logs.
+- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/time-tracker)
 
-### 📦 [Project Name 2](https://github.com/yourusername/project2)
-*Short, punchy 1-sentence description.*
-- **Tech Stack:** React Native, Expo, Zustand
-- **Key Feature:** Smooth mobile interactions and staggered animations.
-- [🔗 App Store / Play Store](https://yourdemo.com)
+### 📦 E-Commerce Workspace
+*An optimized frontend storefront focusing on heavy state management and instantaneous dynamic filtering.*
+- **Tech Stack:** React.js, Express, Firebase, JWT
+- **Key Feature:** Persistent cart tracking across page reloads using authenticated session tokens.
+- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/ecommerce-app)
+
+### 📈 Real-Time Communication Hub
+*A client-side chat environment powered by instant database updates and clean transitions.*
+- **Tech Stack:** Next.js, Tailwind CSS, Firebase Firestore
+- **Key Feature:** Asynchronous state streaming supporting dynamic message lists.
+- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/chat-hub)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radial&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -63,13 +79,13 @@
 ## 📫 Connect with Me
 
 <p align="left">
+  <a href="mailto:masum30.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-masum30.b@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+8801856756904">
+    <img src="https://img.shields.io/badge/Phone-+8801856756904-075E54?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
