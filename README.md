@@ -69,12 +69,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF" alt="GitHub Streak" width="48%" />
-</p>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=masumb30)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=masumb30)](https://git.io/streak-stats)
 
 ---
 
