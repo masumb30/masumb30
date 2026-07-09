@@ -47,11 +47,11 @@
 
 ## 🏆 Featured Projects
 
-### 🌟 Project Management & Time Tracker
-*A robust web platform that combines visual task boards with native time analytics.*
-- **Tech Stack:** Next.js, TypeScript, Better Auth, Tailwind CSS
-- **Key Feature:** Granular user access controls with microsecond-accurate task time session logs.
-- [🔗 Live Demo](https://your-demo-link.vercel.app) | [💻 Source Code](https://github.com/yourusername/time-tracker)
+### 🌟 RentEase
+A feature-rich Property Rental & Booking platform bridging the gap between owners and tenants.
+- **Tech Stack:** Next.js 16 (App Router), TypeScript, Better Auth, Tailwind CSS & DaisyUI
+- **Key Feature:** Multi-role dashboards (Tenant, Owner, Admin), secure Stripe checkouts, dynamic Recharts financial analytics, and robust RBAC role toggles.
+- [🔗 Live Demo](https://rental-frontend-26fc.onrender.com) | [💻 Source Code](https://github.com/masumb30/rental-frontend)
 
 ### 📦 E-Commerce Workspace
 *An optimized frontend storefront focusing on heavy state management and instantaneous dynamic filtering.*
